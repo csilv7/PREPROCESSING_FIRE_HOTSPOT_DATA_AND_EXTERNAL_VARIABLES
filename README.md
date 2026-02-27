@@ -79,4 +79,4 @@ Utilize o Jupyter Notebook em `notebooks/`.
 
 ### Observações Técnicas Adicionais:
 
-* **Sobre os Dados:** Os dados são públicos e fazem parte da dissertação de mestrado do **CEL QOBM WAGNER** do Corpo de Bombeiros Militar do Pará (CBMPA) intitulada de: ***INCÊNDIOS FLORESTAIS NO ESTADO DO PARÁ (2005–2024): UMA ANÁLISE DOS IMPACTOS SOCIOAMBIENTAIS E DECRETAÇÕES DE SITUAÇÕES DE EMERGÊNCIA***. Sendo esta demanda foi exceutada no período de *Voluntáriado Civil* exercido na coorporação. Caso se interesse entre em contato em [brenosilvasantos@gmail.com](mailto:brenosilvasantos@gmail.com)
+* **Sobre os Dados:** Os dados são públicos e fazem parte da dissertação de mestrado do **CEL QOBM WAGNER** do Corpo de Bombeiros Militar do Pará (CBMPA) intitulada de: ***INCÊNDIOS FLORESTAIS NO ESTADO DO PARÁ (2005–2024): UMA ANÁLISE DOS IMPACTOS SOCIOAMBIENTAIS E DECRETAÇÕES DE SITUAÇÕES DE EMERGÊNCIA***. Sendo esta demanda foi exceutada no período de *Voluntáriado Civil* exercido na coorporação. Caso se interesse entre em contato através de [email](mailto:brenosilvasantos@gmail.com).
